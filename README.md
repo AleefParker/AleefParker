@@ -33,7 +33,9 @@
 
 ## 🛠️ Tools I Use
 
-### 🖥️ Productivity & Office
+---
+
+### 🖥️ Productivity & Office  
 - 📊 Microsoft Excel  
 - 📈 Power BI  
 - 📄 Microsoft Word  
@@ -41,7 +43,7 @@
 
 ---
 
-### 📐 Design & Modelling
+### 📐 Design & Modelling  
 - 🏗️ SketchUp  
 - 📏 AutoCAD  
 - 🎨 Figma  
@@ -50,7 +52,7 @@
 
 ## 💻 Programming & Automation
 
-### 🧠 Languages
+### 🧠 Programming Languages  
 - 🐍 Python  
 - 🖥️ JavaScript  
 - 🌐 HTML & CSS  
@@ -58,20 +60,20 @@
 
 ---
 
-### 🔧 Automation & Workflow Tools
+### 🔧 Automation & Scripting Tools  
 - ⚙️ Power Automate  
 - 🤖 n8n  
 - 🔁 Zapier  
-- 📘 VBA (Excel Macro)  
+- 📘 VBA (Excel Macros)  
 
 ---
 
-## 🚀 Development Platforms
-
+## 🚀 Development Platforms  
 - 🧑‍💻 Visual Studio Code  
 - 🐙 GitHub  
 - 🧪 Replit  
 - ☁️ Google Colab  
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleefparker&show_icons=true&locale=en&layout=compact" alt="aleefparker" /></p>
