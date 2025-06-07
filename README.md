@@ -26,7 +26,7 @@
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="/https://www.linkedin.com/in/alif-najmi-bin-zaireel-fariz/](https://www.linkedin.com/in/alif-najmi-bin-zaireel-fariz-403267279/)" target="blank">
+  <a href="(/https://www.linkedin.com/in/alif-najmi-bin-zaireel-fariz/](https://www.linkedin.com/in/alif-najmi-bin-zaireel-fariz-403267279/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -57,7 +57,6 @@
 
 ### 🎮 Game & UI Tools
 <p>
-  <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
 </p>
 
