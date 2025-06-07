@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aleefparker&label=Profile%20views&color=0e75b6&style=flat" alt="aleefparker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleefparker" alt="aleefparker" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=aleefparker&theme=gruvbox&margin-w=15&margin-h=15
 
 - 🔭 I’m currently working on **AI (just generally AI)**
 
@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleefparker&show_icons=true&locale=en&layout=compact" alt="aleefparker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aleefparker&show_icons=true&locale=en" alt="aleefparker" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aleefparker&" alt="aleefparker" /></p>
 
