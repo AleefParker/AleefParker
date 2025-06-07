@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **AI (just generally AI)**
 
-- 🌱 I’m currently learning **JSON, SQL, html5,react**
+- 🌱 I’m currently learning **JSON, SQL, html5, react**
 
 - 👯 I’m looking to collaborate on **ML (Machine Learning)**
 
