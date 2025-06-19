@@ -26,7 +26,7 @@
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="()" target="blank">
+  <a href="()" target="https://www.linkedin.com/in/alif-najmi-bin-zaireel-fariz-403267279">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
