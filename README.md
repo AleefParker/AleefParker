@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **AI (just generally AI)**
 - 🌱 I’m currently learning **JSON, SQL, HTML5, React**
 - 👯 I’m looking to collaborate on **ML (Machine Learning)**
-- 💬 Ask me about **C++, Java, Power BI**
+- 💬 Ask me about **C++, Python, Power BI**
 - 📫 How to reach me: **alifnajmi252@gmail.com**
 - 📄 Know about my experiences: [CV Link](https://cv-alifnajmi.tiiny.site)
 - ⚡ Fun fact: **I will try my best in everything I do**
