@@ -46,12 +46,13 @@
 ### 🛠️ Tools & Technologies
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/photoshop--v1.png" alt="Photoshop" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=2916&format=png&color=FA5252" alt="Photoshop" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="Zapier" width="40" height="40"/>
 </p>
+
 
 
 ### 🎮 Game & UI Tools
